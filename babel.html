@@ -17,11 +17,12 @@
   </head>
   <body>
     <main>
-    <label> Name:  <input id= "name" type ="text"/></label>
+    <label> Name:  <input id= "name" type ="text"> </label>
     <button id ="submit_info">Click me!</button>
+
       <div id="content"></div>
       <div id="error"class="errorBox--hidden">
-        Error message goes here
+        Error message goes here.
       </div>
       </main>
 
@@ -30,7 +31,7 @@
 
       <script type="text/babel" data-presets="latest">
 
-      const getMessage = (name) => `Welcome to JS, ${name}!`;
+      const getMessage = (name) => `Welcome to JS`;
       const button=  document.getElementById('submit_info');
       const contentArea= document.getElementById('content');
       const messageArea= document.getElementById("error");
@@ -38,6 +39,7 @@
       button.addEventListener('click', (evt) =>{
         messageArea.className="errorBox--hidden";
         contentArea.textContent ="";
+
        let name= document.getElementById("name").value;
 
 
@@ -47,7 +49,7 @@
 
       }
       else{
-        ContentArea.textcontent = getMessage(name);
+        contentArea.textcontent = getMessage(name);
       }
         });
       </script>
