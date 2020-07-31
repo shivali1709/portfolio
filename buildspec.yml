@@ -13,5 +13,6 @@ artifacts:
      -index.html
      -favicon.ico
      -styles/main.css
+     -Shivali_Singh_Website.pdf
      -images/*
      -dist/bundle.js
