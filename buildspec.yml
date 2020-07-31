@@ -3,7 +3,8 @@ version: 0.1
 phases:
   build:
     commands:
-      -echo Nothing rn
+      -npm install
+      -npm run webpack
 artifacts:
    files:
      -index.html
@@ -11,3 +12,4 @@ artifacts:
      -Shivali_Singh_Website.pdf
      -styles/main.css
      -images/*
+     -dist/bundle.js
