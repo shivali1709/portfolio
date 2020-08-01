@@ -33,4 +33,5 @@
 
 Website enhancement in progress.
 
-
+![GitHub Logo](/images/MyPortfolio-Architecture.png)
+Format: ![Alt Text](url)
