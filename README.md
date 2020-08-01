@@ -32,6 +32,6 @@
 
 
 Website enhancement in progress.
- Heres an image overview of the entire project :
+ Here's an image overview of the entire project :
 ![Info](/images/MyPortfolio-Architecture.png)
 
