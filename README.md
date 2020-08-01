@@ -1,7 +1,7 @@
 # Shivali Singh's portfolio
  A personal project to create a Serverless Portfolio website using ReactJS on AWS Serverless along with fully automated CI/CD process.
 
-## Technologies used:
+## Technologies Used:
 
 * ReactJS Framework/Library
 * Git and Github
@@ -10,7 +10,7 @@
 * Babel
 * Jest
 
-## AWS Technolgies deployed :
+## What AWS Technolgies I Deployed and why :
 
 *  AWS Lambda : Created a Lambda function which will run my script automatically when a commit is made and send a notification if it is  deployed successfully via email. No need to manually run script in terminal!! 
 * AWS S3 : Host website
