@@ -16,9 +16,9 @@ const myWork = [
   {
     'title': "TipCalculator iOS App",
     'href': "https://github.com/shivali1709/TipCalculatoriOS",
-    'desc': "Testing here",
+    'desc': "Created an iOS app on Swift where the user can enter a bill amount, choose a tip percentage, and see the tip owed and/or split the bill among people and show individual amount owed",
     'image': {
-      'desc': "A Serverless Portfolio",
+      'desc': "Swift",
       'src': "images/example2.png",
       'comment': ""
     }
@@ -26,10 +26,10 @@ const myWork = [
   {
     'title': "A Serverless Portfolio",
     'href': "https://github.com/shivali1709/portfolio",
-    'desc': "A personal project to create a Serverless Portfolio website using ReactJS on AWS Serverless along with fully automated CI/CD process.",
+    'desc': "A personal project to create a Serverless Portfolio website using ReactJS on AWS Serverless along with fully automated CI/CD process. AWS Technolgies used : Lambda, S3, CloudFront, Route53, SNS, Codebuild,and CodePipeline. Check out my github for more info. ",
     'image': {
       'desc': "example screenshot of a project involving cats",
-      'src': "images/example2.png",
+      'src': "images/MyPortfolio-Architecture.png",
 
     }
   }

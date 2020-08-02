@@ -10,7 +10,7 @@ Enzyme.configure({ adapter: new Adapter() });
 const myExample = {
   'title': "Blog on AWS Certifications",
   'href': "https://about.shivali.us",
-  'desc': " testing",
+  'desc': " testing here",
   'image': {
     'desc': "example screenshot of a project involving code",
     'src': "images/example1.png",
