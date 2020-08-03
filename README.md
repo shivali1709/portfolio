@@ -20,7 +20,7 @@
 * AWS CodeBuild : Created a code build job that automatically updates code on Git and AWS when I make a commit to Git
 * AWS CodePipeline : Implemented Code Pipeline to automate process and successfully manage and view the Portfolio Projects
 
-## Sumamry of the things I worked on :
+## Summary of the things I worked on :
 
 * Build Portfolio Website with ReactJS/Babel
 * Test Website with Chai and Mocha
@@ -34,4 +34,5 @@
 Website enhancement in progress.
  Here's an image overview of the entire project :
 ![Info](/images/MyPortfolio-Architecture.png)
+Source: acloud.guru
 
